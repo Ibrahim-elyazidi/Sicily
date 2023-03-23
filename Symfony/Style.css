@@ -1,0 +1,7 @@
+body{
+    background-color: aqua;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color:blue;
+}
